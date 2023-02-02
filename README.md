@@ -1,5 +1,7 @@
 # CSCI-5828-HW2
 
+Contributor :- Rishikesh Solapure, Omkar Yeole
+
 Homework 2 - No Silver Bullet
 
 Review the material in Lectures 1 and 2 and read the No Silver Bullet article available on https://software-engineer-workshop.initialcapacity.io/ website. Based on that review and your own experience, answer the questions below.
